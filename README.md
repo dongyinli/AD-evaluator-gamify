@@ -11,14 +11,14 @@ A gamified learning platform for evaluating audio description quality.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AD-evaluator-gamify.git
+   git clone https://github.com/dongyinli/AD-evaluator-gamify.git
    cd AD-evaluator-gamify
    ```
 2. **Set up firebase**
    ```bash
-   cd AD-evaluator-gamify/firebase/config.js
+   cd firebase/config.js
    ```
-   - Set up config.js file
+   - Set up parameters for firebaseConfig object
 
 3. **Install dependencies**
    ```bash
